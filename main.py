@@ -1,7 +1,7 @@
 # This program converts a flutter icon file into a typescript array
 # Author: Ale, your dev
 # Date: 27/04/2023
-# Version: 1.0.1
+# Version: 1.0.0
 # Description: The program reads the flutter icon file and extracts the names, codes and styles of the icons.
 #     Then it creates a typescript array with the icon names as keys and objects as values. Each object contains
 #     the code and the style of the icon. The style corresponds to the material icons class that is used to
